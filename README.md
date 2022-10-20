@@ -1,3 +1,3 @@
 # SWE Internships
 
-> **Made with **:heart: **by a fellow student**  
+**Made with** :heart: **by a fellow student**  
