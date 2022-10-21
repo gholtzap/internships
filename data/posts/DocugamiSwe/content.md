@@ -1,11 +1,9 @@
 ---
 title: Software Engineering Intern - Docugami
 date: 2022-10-20
-category: Internship
+category: Software Internship
 tags: 
-    - Hello
-    - Test
-    - SWE
+    - Software Internship
 ---
 
 # Software Engineering Intern - Docugami
